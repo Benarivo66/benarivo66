@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Anthony Izekor, a student at Brigham Young University–Idaho — a Data Analyst and Software Engineer passionate about computer science, data science, web development, and machine learning. Welcome to my GitHub profile!
+I'm Anthony Izekor, a Software Engineer, a student at Brigham Young University–Idaho and a Data Analyst, passionate about computer science, data science, web development, and machine learning. Welcome to my GitHub profile!
 
 ---
 
