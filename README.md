@@ -9,7 +9,7 @@ I'm Anthony Izekor, a Software Engineer, a student at Brigham Young University�
 ## 🧠 About Me
 
 - 👨‍💻 Over **4 years** of professional experience building software solutions, both onsite and remotely  
-- 🎓 Pursuing a **Bachelor's degree in Software Development** at Brigham Young University–Idaho  
+- 🎓 **Bachelor's degree in Software Development** at Brigham Young University–Idaho  
 - 🎯 Passionate about using technology to solve real-world, cross-industry problems  
 
 ---
